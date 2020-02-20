@@ -1,0 +1,84 @@
+*{
+	font-family: Verdana;
+	margin:0;
+	padding:0;
+	color: #F2E2D2;
+}
+
+html,body{
+	background-color: #683257;
+}
+
+.main-container{
+	border: 3px solid rgb(255,122,10);
+	border-radius: 40px;
+	margin: 1rem;
+	background-color: #ACACDE;
+}
+
+nav,.index{
+	padding: 1rem;
+	text-align: center;
+	background-color: #46B1C9;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	border-left: 6px solid #6699CC;
+	border-right: 6px solid #6699CC;
+}
+nav{
+	margin-top: 1rem;
+	border-top: 8px solid #6699CC;
+}
+
+.index{
+	margin-bottom: 	1rem;
+	border-bottom: 	8px solid #6699CC;
+	font-size: 20px;
+}
+
+section{
+	margin: 2rem;
+	background-color: #46B1C9;
+	border-radius: 	45px;
+	box-shadow: -3px 3px 10px #000;
+}
+
+aside,article{
+	margin: 30px;
+}
+
+article{
+	background-color: #7A5980;
+	padding: 1rem;
+	border-radius: 50px;
+}
+
+hr{
+	margin: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.aurora{
+	padding: 5px;
+	border-radius: 100%;
+	box-shadow: 8px -10px 30px #000;
+	width: 750px;
+	height: auto;
+}
+
+.toño{
+	width: 350px;
+	height: auto;
+	border-radius: 150px;
+	box-shadow: 8px -10px 30px #000;
+	padding: 3px; 
+}
+
+.nick{
+	width: 425px;
+	height: auto;
+	border-radius: 35%;
+	box-shadow: 8px -10px 30px #000;
+	padding: 4px;
+}
